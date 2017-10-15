@@ -1,3 +1,2 @@
 # LOTH-1.0
-First LOTH version.
-For License see the Purpose & License.txt file inside zip
+First LOTH Version published only based on the default minetest subgame.
